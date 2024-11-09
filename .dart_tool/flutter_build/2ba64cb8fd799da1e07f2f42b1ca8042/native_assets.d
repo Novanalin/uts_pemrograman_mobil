@@ -1,0 +1,1 @@
+ C:\\Users\\novan\\KULIAH\\Mata\ Kuliah\\Pemrograman\ Mobile\\uts_pemrograman_mobil\\.dart_tool\\flutter_build\\2ba64cb8fd799da1e07f2f42b1ca8042\\native_assets.yaml: 
